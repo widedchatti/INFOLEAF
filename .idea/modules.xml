@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Responsive_login_signup_screens_flutter-main.iml" filepath="$PROJECT_DIR$/Responsive_login_signup_screens_flutter-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Responsive_login_signup_screens_flutter-main/responsive_login_ui/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/Responsive_login_signup_screens_flutter-main/responsive_login_ui/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Responsive_login_signup_screens_flutter-main/responsive_login_ui/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/Responsive_login_signup_screens_flutter-main/responsive_login_ui/android/app/src/profile/profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Responsive_login_signup_screens_flutter-main/responsive_login_ui/responsive_login_ui.iml" filepath="$PROJECT_DIR$/Responsive_login_signup_screens_flutter-main/responsive_login_ui/responsive_login_ui.iml" />
+    </modules>
+  </component>
+</project>
